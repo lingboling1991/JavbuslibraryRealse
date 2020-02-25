@@ -3,7 +3,10 @@
 
 目前只提供骑兵。
 
-[下载App](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
+## 下载
+
+- [Github](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
+- [蓝奏云](https://www.lanzous.com/b0sfuli)
 
 <img width="480" alt="screenshot" src="/art/screenshot.jpg">
 
