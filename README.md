@@ -8,6 +8,12 @@
 <img width="480" alt="screenshot" src="/art/screenshot.jpg">
 
 ## Change Log
+
+### 1.1
+- 夜间模式
+- 最新影片增加“换一批”
+- 细节优化
+
 ### 1.0
 - 搜索识别码、演员等
 - 随机最新影片
