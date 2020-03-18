@@ -6,7 +6,7 @@
 - [Github](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
 - [蓝奏云](https://www.lanzous.com/b0sfuli)
 
-<img width="480" alt="screenshot" src="/art/screenshot.jpg">
+<img width="300" alt="screenshot" src="/art/screenshot.jpg">
 
 ## 帮助
 - 长按左上角返回按钮可以快速回到首页（2.2+）
