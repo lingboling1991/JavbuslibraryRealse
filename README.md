@@ -1,6 +1,8 @@
 # JavBus
 漂亮且优雅的开车APP
 
+[Telegram](https://t.me/higentleman)
+
 ## 下载
 
 - [Github](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
