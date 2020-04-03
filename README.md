@@ -5,7 +5,7 @@
 
 ## 下载
 
-- [Github](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
+- [Github、更新日志](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
 - [蓝奏云](https://www.lanzous.com/b0sfuli)
 
 <img width="300" alt="screenshot" src="/art/screenshot.jpg">
