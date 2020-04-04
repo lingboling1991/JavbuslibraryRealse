@@ -1,24 +1,24 @@
-# JavBus
-综合两大番号库详细信息的优雅app，主旨是为了解决大家片荒，不知道看什么等问题，当然界面得漂亮才行。
+# JavRocket
+漂亮且优雅的开车APP
 
-目前只提供骑兵。
+[Telegram](https://t.me/higentleman)
 
 ## 下载
 
-- [Github](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
+- [Github、更新日志](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
 - [蓝奏云](https://www.lanzous.com/b0sfuli)
 
-<img width="480" alt="screenshot" src="/art/screenshot.jpg">
+<img width="300" alt="screenshot" src="/art/screenshot.jpg">
 
-## Change Log
+## 帮助
 
-### 1.1
-- 夜间模式
-- 最新影片增加“换一批”
-- 细节优化
+- 使用新的中文字幕推送功能，需要你将APP加入白名单（2.5+）
+- 点击剧照标题可临时更换图片源（2.5+）
+- 遇到网络超时无法访问，点击重试或者尝试更换网络环境
+- 长按左上角返回按钮可以快速回到首页（2.2+）
+- 长按详情标题可以翻译中文（2.1+）
+- 长按“我的收藏”影片可删除影片（2.1+）
+- 长按详情识别码可以查看该识别码相关的影片（2.0+）
+- “管理我的关注”中滑动可删除列表项目（2.0+）
 
-### 1.0
-- 搜索识别码、演员等
-- 随机最新影片
-- 可自定义关注的类别、演员、导演等
-- 最想要、高评价排行榜
+因为众所周知的原因，可能会被列成危险和病毒APP
